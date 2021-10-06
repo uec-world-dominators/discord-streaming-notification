@@ -4,3 +4,4 @@
 
 - SlackのWebhookURL
 - DiscordのBotトークン
+    - https://discord.com/developers/applications
